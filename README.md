@@ -58,3 +58,25 @@ The Angular part of the project includes features for handling routing, HTTP cli
 - **Post API Call and Data Save**: Making a POST API call to save user data.
 - **Edit & Update User Form**: Creating a form to edit and update user information.
 - **Delete User & Delete API Call**: Implementing functionality to delete a user and making the corresponding API call.
+
+
+![image](https://github.com/user-attachments/assets/f324c459-d9e7-4100-91b1-da3411c96856)
+
+Add User
+
+![image](https://github.com/user-attachments/assets/d5a280d8-9be1-4f76-bb38-ca9e6bc42743)
+
+![image](https://github.com/user-attachments/assets/458654b4-3bd0-4c0e-a7be-42636991c5e6)
+
+Edit User
+
+![image](https://github.com/user-attachments/assets/7819de0b-d895-4648-8926-0b18f6ed3450)
+
+![image](https://github.com/user-attachments/assets/39d0af00-2869-4e40-871a-ca9bea786d5f)
+
+Delete User
+
+![image](https://github.com/user-attachments/assets/bb218d5e-c50b-4c19-9526-c2c219db826c)
+
+![image](https://github.com/user-attachments/assets/be40b180-66dc-4c75-8267-d0f55d9008cc)
+
